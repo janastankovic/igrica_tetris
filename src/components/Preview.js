@@ -35,4 +35,3 @@ const Preview = ({ tetromino, index }) => {
 };
 
 export default React.memo(Preview);
-  
